@@ -5,7 +5,7 @@ body{
     justify-content: center;
     min-height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #fefdfd;
 }
 
 .caluladora.ihh{ 
@@ -17,10 +17,10 @@ body{
 }
 
 .calculator {
-    background: #0d0d0d;
+    background: #030303;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 10px 20px #0000004d;
+    box-shadow: 0 10px 20px #000000f3;
 }
 
 #display {
@@ -59,7 +59,7 @@ button:hover {
 }
 
 h2 {
-    color: #f4f1f1;
+    color: #ba83d2;
     margin-bottom: 20px;
     text-align: center;
 }
